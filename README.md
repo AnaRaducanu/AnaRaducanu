@@ -71,6 +71,11 @@
 </table>
 </sub></sub>
 
+# 📚 Currently Learning
+<div>
+  I'm always looking to expand my knowledge. Currently, I'm learning about AWS to validate my could skills and looking to start a C# course.
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnaRaducanu&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnaRaducanu&theme=vue-dark&hide_border=false)<br/>
