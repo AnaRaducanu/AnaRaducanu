@@ -1,14 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdxMzhtOGZic2VzMWd4NXZudnE5Y3p5eDUyaDVrMHFjbHJqYTR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
-</div>
 # 💫 About Me:
-<h5>
+<p>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br>
-  <br>
-  I'm Ana, a highly motivated and aspiring full-stack developer, passionate about writing code and debugging complex errors.<br><br>During my previous role as a sales and marketing analyst, I discovered a passion for the technical aspects.<br><br>While being on maternity leave, I joined and successfully graduated the School of Code, a 16-week intensive bootcamp designed to help individuals from diverse backgrounds transition into the tech.<br><br>I am excited to join a mission-driven team, where I can leverage my analytical skills, technical aptitude, and passion for problem-solving in a collaborative and friendly manner.<br>
-</h5>
+  I'm Ana, a highly motivated and aspiring full-stack developer, passionate about writing code and debugging complex errors.<br>During my previous role as a sales and marketing analyst, I discovered a passion for the technical aspects.<br>While being on maternity leave, I joined and successfully graduated the School of Code, a 16-week intensive bootcamp designed to help individuals from diverse backgrounds transition into the tech.<br>I am excited to join a mission-driven team, where I can leverage my analytical skills, technical aptitude, and passion for problem-solving in a collaborative and friendly manner.<br>
+</p>
 
 # 🌐 Socials
 <div id="badges">
