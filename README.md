@@ -64,7 +64,7 @@
       <td>Testathon</td>
       <td>Full-stack todos app that uses Vitest, Supertest and Playwright for API testing and end-to-end testing</td>
       <td><a href="https://github.com/SchoolOfCode/bc15-w6-d5-hackathon-testathon-team12-week6">GitHub</a></td>
-      <td>Row 2, Cell 4</td>
+      <td></td>
       <td>Node.js, Express.js, Supertest, Playwright, Vitest</td>
     </tr>
   </tbody>
