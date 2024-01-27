@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Ana, a highly motivated and aspiring full-stack developer, passionate about writing code and debugging complex errors.<br>During my previous role as a sales and marketing analyst, I discovered a passion for the technical aspects<br>While being on maternity leave,I joined and successfully graduated the School of Code, a 16-week intensive bootcamp designed to help individuals from diverse backgrounds transition into the tech.<br>I am excited to join a mission-driven team, where I can leverage my analytical skills, technical aptitude, and passion for problem-solving in a collaborative and friendly manner.<br>
+Hello there! I'm Ana, a highly motivated and aspiring full-stack developer, passionate about writing code and debugging complex errors.<br><br>During my previous role as a sales and marketing analyst, I discovered a passion for the technical aspects.<br><br>While being on maternity leave,I joined and successfully graduated the School of Code, a 16-week intensive bootcamp designed to help individuals from diverse backgrounds transition into the tech.<br><br>I am excited to join a mission-driven team, where I can leverage my analytical skills, technical aptitude, and passion for problem-solving in a collaborative and friendly manner.<br>
 
 
 ## 🌐 Socials:
