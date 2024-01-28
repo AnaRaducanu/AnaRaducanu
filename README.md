@@ -73,7 +73,7 @@
 
 # 📚 Currently Learning
 <div>
-  I'm always excited to expand my knowledge. Currently, I'm learning about AWS to validate my could skills and looking to start a C# course.
+  I'm always excited to expand my knowledge. Currently, I'm learning about AWS to validate my cloud skills and looking to start a C# course.
 </div>
 
 # 📊 GitHub Stats:
